@@ -1,6 +1,6 @@
-----------------Rock Paper Scissors Game-----------------
+----------------Stone Paper Scissors Game-----------------
 
-Welcome to the Rock Paper Scissors game! This simple web-based game allows you to play the classic Rock Paper Scissors against the computer.
+Welcome to the Sock Paper Scissors game! This simple web-based game allows you to play the classic Rock Paper Scissors against the computer.
 
 How to Play-
 Clone the repository to your local machine.
